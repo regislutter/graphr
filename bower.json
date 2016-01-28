@@ -1,0 +1,25 @@
+{
+  "name": "graphr",
+  "main": "graphr.js",
+  "homepage": "https://github.com/zetura/graphr",
+  "authors": [
+    "Régis Lutter <regis.lutter+graphr@gmail.com>"
+  ],
+  "description": "JavaScript Chart Library",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "chart",
+    "graph",
+    "graphics",
+    "canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
